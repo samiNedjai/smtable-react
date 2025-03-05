@@ -52,14 +52,13 @@ export default function App() {
     </div>
   );
 }
-```
 ## 📌 Props disponibles
 
-| Props            | Type     | Description                                 | Defaut
-|------------------|----------|------------- -------------------------------|-------
-| colum            | Array    | Liste des colonnes du tableau (id, label)   |[]
-| data             | Array    | Données à afficher dans le tableau          |[]
-| pageSizeOptions  | Array   | Options de taille de page pour la pagination	|[5, 10, 20]
+| Props           | Type   | Description                                      | Défaut      |
+|----------------|--------|--------------------------------------------------|-------------|
+| **colum**      | `Array` | Liste des colonnes du tableau (`id`, `label`)   | `[]`        |
+| **data**       | `Array` | Données à afficher dans le tableau              | `[]`        |
+| **pageSizeOptions** | `Array` | Options de taille de page pour la pagination | `[5, 10, 20]` |
 
 ## 📌 Prérequis
 
