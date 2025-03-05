@@ -62,12 +62,13 @@ export default function App() {
 
 ## 📌 Prérequis
 
-Avant d'utiliser **samodal-react**, assure-toi d'avoir :
+Avant d'utiliser **smtable-react**, assure-toi d'avoir :
 
 - **Node.js** : >= 18.0.0
 - **React** : >= 19.0.0
 - **ReactDOM** : >= 19.0.0
-- **"prop-types** : >= 15.0.0
+- **prop-types** : >= 15.0.0
+
 
 ## 📌 Développement
 
