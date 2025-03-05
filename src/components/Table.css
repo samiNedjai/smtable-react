@@ -1,0 +1,41 @@
+.table-container {
+    max-width: 100%;
+    margin: 20px auto;
+  }
+  
+  .custom-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .custom-table th, .custom-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .custom-table th {
+    background-color: #f4f4f4;
+    cursor: pointer;
+  }
+  
+  .custom-table th:hover {
+    background-color: #ddd;
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .pagination button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .pagination button:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+  
