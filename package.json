@@ -1,7 +1,7 @@
 {
   "name": "smtable-react",
-  "version": "1.0.0",
- "description": "A simple and customizable React table component.",
+  "version": "1.0.1",
+  "description": "A simple and customizable React table component.",
   "main": "src/index.js",
   "module": "src/index.js",
   "files": [
@@ -25,5 +25,5 @@
     "type": "git",
     "url": "https://github.com/samiNedjai/smtable-react.git"
   },
-"license": "MIT"
+  "license": "MIT"
 }
