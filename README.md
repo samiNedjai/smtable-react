@@ -52,6 +52,7 @@ export default function App() {
     </div>
   );
 }
+```
 ## 📌 Props disponibles
 
 | Props           | Type   | Description                                      | Défaut      |
