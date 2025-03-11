@@ -1,6 +1,6 @@
 {
   "name": "smtable-react",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple and customizable React table component.",
   "main": "src/index.js",
   "module": "src/index.js",
