@@ -25,5 +25,9 @@
     "type": "git",
     "url": "https://github.com/samiNedjai/smtable-react.git"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.2.1"
+  }
 }
