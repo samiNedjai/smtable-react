@@ -1,8 +1,15 @@
+
 .table-container {
     max-width: 100%;
     margin: 20px auto;
   }
-  
+  .table-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 10px;
+    padding-right: 20px;
+  }
   .custom-table {
     width: 100%;
     border-collapse: collapse;
@@ -29,13 +36,32 @@
   }
   
   .pagination button {
+    width: 100px;
     margin: 0 5px;
     padding: 5px 10px;
     cursor: pointer;
   }
-  
+  .pagination_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 50px;
+  }
   .pagination button:disabled {
     cursor: not-allowed;
     opacity: 0.5;
+  }
+  .search-input {
+    margin-left: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px;
+  }
+  
+  .entries-info {
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #555;
   }
   

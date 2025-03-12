@@ -21,7 +21,6 @@ const data = [
 function App() {
   return (
     <div>
-      <h2>Employee List</h2>
       <Table columns={columns} data={data} pageSizeOptions={[5, 10, 20]} />
     </div>
   );
