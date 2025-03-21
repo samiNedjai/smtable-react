@@ -60,6 +60,7 @@ export default function App() {
 | **colum**      | `Array` | Liste des colonnes du tableau (`id`, `label`)   | `[]`        |
 | **data**       | `Array` | Données à afficher dans le tableau              | `[]`        |
 | **pageSizeOptions** | `Array` | Options de taille de page pour la pagination | `[5, 10, 20]` |
+| **emptyMessage** | `String` | Message affiché lorsque le tableau est vide | `No data available ` |
 
 ## 📌 Prérequis
 
